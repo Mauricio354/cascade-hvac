@@ -1,0 +1,99 @@
+@keyframes urSlideIn {
+  from { opacity: 0; transform: translateY(14px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes urMsgIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes urTypeBounce {
+  0%, 60%, 100% { transform: translateY(0); opacity: 0.4; }
+  30% { transform: translateY(-5px); opacity: 0.9; }
+}
+@keyframes urPulse {
+  0%, 100% { box-shadow: 0 6px 24px rgba(0,152,212,0.35); }
+  50% { box-shadow: 0 6px 24px rgba(0,152,212,0.35), 0 0 0 8px rgba(0,152,212,0.12); }
+}
+.ur-scroll::-webkit-scrollbar { width: 4px; }
+.ur-scroll::-webkit-scrollbar-track { background: transparent; }
+.ur-scroll::-webkit-scrollbar-thumb { background: rgba(0,152,212,0.15); border-radius: 4px; }
+.ur-chip {
+  background: white;
+  border: 1px solid #E8EBF0;
+  color: #0094cc;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 12.5px;
+  font-weight: 500;
+  cursor: pointer;
+  font-family: 'DM Sans', sans-serif;
+  transition: all 0.2s;
+  white-space: nowrap;
+}
+.ur-chip:hover {
+  background: #0094cc;
+  color: #fff;
+  border-color: #0094cc;
+}
+/* Ellipsis dropdown menu */
+.ur-dropdown {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  margin-top: 4px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.04);
+  min-width: 160px;
+  z-index: 10;
+  overflow: hidden;
+  animation: urDropIn 0.15s ease;
+}
+.ur-dropdown button {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 11px 16px;
+  background: none;
+  border: none;
+  font-size: 13.5px;
+  font-family: 'DM Sans', sans-serif;
+  color: #2D3748;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+.ur-dropdown button:hover {
+  background: #F5F6F8;
+}
+.ur-dropdown button.ur-dropdown-exit {
+  color: #E53E3E;
+}
+.ur-dropdown button.ur-dropdown-exit:hover {
+  background: #FFF5F5;
+}
+@keyframes urDropIn {
+  from { opacity: 0; transform: translateY(-4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes urSlideDown {
+  from { opacity: 0; transform: translateY(-8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* Persistent booking bar */
+.ur-booking-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px;
+  background: #fff;
+  border-bottom: 1px solid #E8EBF0;
+  cursor: pointer;
+  transition: background 0.15s;
+  flex-shrink: 0;
+}
+.ur-booking-bar:hover {
+  background: #F5F6F8;
+}
