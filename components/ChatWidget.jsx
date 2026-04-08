@@ -215,7 +215,7 @@ export default function ChatWidget() {
     if (window.Cal) {
       window.Cal("modal", {
         // TODO: Replace with Cascade HVAC's Cal.com link once set up
-        calLink: "cascade-hvac/consultation",
+        calLink: "mauricio-rosas-2wvlr4/30-min-consultation",
         config: {
           layout: "month_view",
           name: bookingName.trim(),
@@ -230,7 +230,7 @@ export default function ChatWidget() {
         ...(notes && { notes }),
       });
       window.open(
-        `https://cal.com/cascade-hvac/consultation?${params}`,
+        `https://cal.com/mauricio-rosas-2wvlr4/30-min-consultation?${params}`,
         "_blank"
       );
     }
