@@ -35,3 +35,8 @@ next-env.d.ts
 # working screenshots
 *.png
 !public/*.png
+
+.vercel
+
+# Per-user Claude Code state
+.claude/settings.local.json
