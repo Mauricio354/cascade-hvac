@@ -1,0 +1,195 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "Cascade HVAC Ltd" [ref=e4] [cursor=pointer]:
+        - /url: /
+        - img "Cascade HVAC Ltd" [ref=e5]
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - link "Services" [ref=e8] [cursor=pointer]:
+            - /url: /services
+          - link "Gallery" [ref=e9] [cursor=pointer]:
+            - /url: /gallery
+          - link "About" [ref=e10] [cursor=pointer]:
+            - /url: /about
+          - link "Contact" [ref=e11] [cursor=pointer]:
+            - /url: /contact
+        - link "403.264.4622" [ref=e12] [cursor=pointer]:
+          - /url: tel:4032644622
+          - img [ref=e13]
+          - text: 403.264.4622
+  - main [ref=e15]:
+    - generic [ref=e17]:
+      - paragraph [ref=e18]: Established in 2006
+      - heading "About Cascade HVAC" [level=1] [ref=e19]
+      - paragraph [ref=e20]: Alberta's trusted partner for commercial, industrial, and residential HVAC solutions. Built on integrity, delivered with expertise.
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - heading "Who We Are" [level=2] [ref=e25]
+        - generic [ref=e26]:
+          - paragraph [ref=e27]: Since 2006, Cascade HVAC has specialized in working with General Contractors to deliver heating, ventilation, and air conditioning projects on budget, on time, and to the highest quality standards.
+          - paragraph [ref=e28]: We treat every customer equally — from small residential repairs to large-scale industrial installations. Our team of skilled tradespeople brings decades of combined experience to every project.
+          - paragraph [ref=e29]: Based in Airdrie, Alberta, we serve Calgary and surrounding areas with a commitment to fair pricing, transparent communication, and uncompromising safety standards.
+      - generic [ref=e30]:
+        - img "HVAC construction work" [ref=e31]
+        - generic [ref=e32]:
+          - paragraph [ref=e33]: 18+
+          - paragraph [ref=e34]: Years of Service
+    - generic [ref=e36]:
+      - img [ref=e37]
+      - blockquote [ref=e40]: “A quote is a quote, there are never surprising extras.”
+      - paragraph [ref=e41]: Our promise to every client
+    - generic [ref=e43]:
+      - generic [ref=e44]:
+        - heading "Our Values" [level=2] [ref=e45]
+        - paragraph [ref=e46]: The principles that guide everything we do at Cascade HVAC.
+      - generic [ref=e47]:
+        - generic [ref=e48]:
+          - img [ref=e50]
+          - generic [ref=e52]:
+            - heading "Equal Treatment" [level=3] [ref=e53]
+            - paragraph [ref=e54]: Every customer receives the same level of dedication and service, regardless of project size.
+        - generic [ref=e55]:
+          - img [ref=e57]
+          - generic [ref=e59]:
+            - heading "No Hidden Charges" [level=3] [ref=e60]
+            - paragraph [ref=e61]: Transparent pricing with no surprises. A quote is a quote — period.
+        - generic [ref=e62]:
+          - img [ref=e64]
+          - generic [ref=e69]:
+            - heading "Safety Compliance" [level=3] [ref=e70]
+            - paragraph [ref=e71]: COR certified with rigorous safe work procedures on every job site.
+        - generic [ref=e72]:
+          - img [ref=e74]
+          - generic [ref=e77]:
+            - heading "Fair Pricing" [level=3] [ref=e78]
+            - paragraph [ref=e79]: Competitive rates that deliver genuine value without cutting corners.
+        - generic [ref=e80]:
+          - img [ref=e82]
+          - generic [ref=e87]:
+            - heading "Skilled Personnel" [level=3] [ref=e88]
+            - paragraph [ref=e89]: Experienced journeyman tradespeople committed to quality workmanship.
+        - generic [ref=e90]:
+          - img [ref=e92]
+          - generic [ref=e95]:
+            - heading "Quality First" [level=3] [ref=e96]
+            - paragraph [ref=e97]: We work with General Contractors to deliver on budget, timeline, and quality expectations.
+    - generic [ref=e99]:
+      - generic [ref=e100]:
+        - heading "Certifications & Memberships" [level=2] [ref=e101]
+        - paragraph [ref=e102]: Our commitment to safety and professionalism is backed by industry-recognized certifications.
+      - generic [ref=e103]:
+        - generic [ref=e104]:
+          - img [ref=e106]
+          - heading "COR" [level=3] [ref=e109]
+          - paragraph [ref=e110]: Certificate of Recognition
+          - paragraph [ref=e111]: Safety excellence in the workplace.
+        - generic [ref=e112]:
+          - img [ref=e114]
+          - heading "SMCAA" [level=3] [ref=e117]
+          - paragraph [ref=e118]: Sheet Metal Contractors Association of Alberta
+          - paragraph [ref=e119]: Recognized member in good standing.
+        - generic [ref=e120]:
+          - img [ref=e122]
+          - heading "ACSA" [level=3] [ref=e125]
+          - paragraph [ref=e126]: Alberta Construction Safety Association
+          - paragraph [ref=e127]: Committed to construction safety standards.
+    - generic [ref=e129]:
+      - img [ref=e130]
+      - heading "Financing Available" [level=2] [ref=e133]
+      - paragraph [ref=e134]: Through FinanceIt, we offer financing options up to $100,000 for qualifying projects.
+      - paragraph [ref=e135]: Ask us about flexible payment plans to fit your budget.
+    - generic [ref=e137]:
+      - generic [ref=e138]:
+        - heading "Our Team" [level=2] [ref=e139]
+        - paragraph [ref=e140]: Meet the experienced professionals behind Cascade HVAC.
+      - generic [ref=e141]:
+        - generic [ref=e142]:
+          - generic [ref=e143]: JA
+          - heading "Justin Arnold" [level=3] [ref=e144]
+          - paragraph [ref=e145]: General Manager / Estimating
+        - generic [ref=e146]:
+          - generic [ref=e147]: RA
+          - heading "Rachel Arnold" [level=3] [ref=e148]
+          - paragraph [ref=e149]: Office / Accounting
+        - generic [ref=e150]:
+          - generic [ref=e151]: MA
+          - heading "Mike Anderson" [level=3] [ref=e152]
+          - paragraph [ref=e153]: Service
+        - generic [ref=e154]:
+          - generic [ref=e155]: AE
+          - heading "AJ Enns" [level=3] [ref=e156]
+          - paragraph [ref=e157]: Project Manager
+        - generic [ref=e158]:
+          - generic [ref=e159]: BJ
+          - heading "Brett Jones" [level=3] [ref=e160]
+          - paragraph [ref=e161]: Project Coordinator
+  - contentinfo [ref=e162]:
+    - generic [ref=e164]:
+      - generic [ref=e165]:
+        - img "Cascade HVAC Ltd" [ref=e166]
+        - paragraph [ref=e167]: Alberta's trusted HVAC experts since 2006. Commercial, industrial & residential heating, ventilation, and air conditioning.
+        - generic [ref=e168]:
+          - generic [ref=e169]: SMCAA
+          - generic [ref=e170]: ACSA
+          - generic [ref=e171]: COR
+      - generic [ref=e172]:
+        - heading "Quick Links" [level=3] [ref=e173]
+        - list [ref=e174]:
+          - listitem [ref=e175]:
+            - link "Home" [ref=e176] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e177]:
+            - link "Services" [ref=e178] [cursor=pointer]:
+              - /url: /services
+          - listitem [ref=e179]:
+            - link "Gallery" [ref=e180] [cursor=pointer]:
+              - /url: /gallery
+          - listitem [ref=e181]:
+            - link "About" [ref=e182] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=e183]:
+            - link "Contact" [ref=e184] [cursor=pointer]:
+              - /url: /contact
+      - generic [ref=e185]:
+        - heading "Contact" [level=3] [ref=e186]
+        - list [ref=e187]:
+          - listitem [ref=e188]:
+            - img [ref=e189]
+            - generic [ref=e192]:
+              - text: 1022, 93 Gateway Drive NE
+              - text: Airdrie, AB T4B 0J6
+          - listitem [ref=e193]:
+            - img [ref=e194]
+            - generic [ref=e196]:
+              - 'link "Local: 403.264.4622" [ref=e197] [cursor=pointer]':
+                - /url: tel:4032644622
+              - 'link "Toll Free: 877.413.3665" [ref=e198] [cursor=pointer]':
+                - /url: tel:8774133665
+          - listitem [ref=e199]:
+            - img [ref=e200]
+            - link "info@cascadehvac.ca" [ref=e203] [cursor=pointer]:
+              - /url: mailto:info@cascadehvac.ca
+      - generic [ref=e204]:
+        - heading "Business Hours" [level=3] [ref=e205]
+        - list [ref=e206]:
+          - listitem [ref=e207]:
+            - img [ref=e208]
+            - generic [ref=e211]:
+              - paragraph [ref=e212]: Monday - Friday
+              - paragraph [ref=e213]: 7:00 AM - 5:00 PM
+          - listitem [ref=e214]:
+            - img [ref=e215]
+            - generic [ref=e218]:
+              - paragraph [ref=e219]: Saturday - Sunday
+              - paragraph [ref=e220]: Closed
+        - link "Call Now" [ref=e222] [cursor=pointer]:
+          - /url: tel:4032644622
+          - img [ref=e223]
+          - text: Call Now
+    - generic [ref=e226]:
+      - paragraph [ref=e227]: © 2026 Cascade HVAC Ltd. All rights reserved.
+      - paragraph [ref=e228]: SMCAA Member · ACSA Certified · COR Certified
+  - button "1" [ref=e229] [cursor=pointer]:
+    - generic [ref=e230]: "1"
+    - img [ref=e231]

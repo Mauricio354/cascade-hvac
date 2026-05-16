@@ -1,0 +1,181 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "Cascade HVAC Ltd" [ref=e4] [cursor=pointer]:
+        - /url: /
+        - img "Cascade HVAC Ltd" [ref=e5]
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - link "Services" [ref=e8] [cursor=pointer]:
+            - /url: /services
+          - link "Gallery" [ref=e9] [cursor=pointer]:
+            - /url: /gallery
+          - link "About" [ref=e10] [cursor=pointer]:
+            - /url: /about
+          - link "Contact" [ref=e11] [cursor=pointer]:
+            - /url: /contact
+        - link "403.264.4622" [ref=e12] [cursor=pointer]:
+          - /url: tel:4032644622
+          - img [ref=e13]
+          - text: 403.264.4622
+  - main [ref=e15]:
+    - generic [ref=e17]:
+      - heading "Project Gallery" [level=1] [ref=e18]
+      - paragraph [ref=e19]: Browse our portfolio of commercial, industrial, and residential HVAC projects across Alberta. Over 37 completed projects and counting.
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - paragraph [ref=e24]: 25+
+        - paragraph [ref=e25]: Commercial Projects
+      - generic [ref=e26]:
+        - paragraph [ref=e27]: 8+
+        - paragraph [ref=e28]: Industrial Projects
+      - generic [ref=e29]:
+        - paragraph [ref=e30]: 4+
+        - paragraph [ref=e31]: Residential Projects
+    - generic [ref=e34]:
+      - button "All" [ref=e35]
+      - button "Commercial(25)" [ref=e36]:
+        - text: Commercial
+        - generic [ref=e37]: (25)
+      - button "Industrial(8)" [ref=e38]:
+        - text: Industrial
+        - generic [ref=e39]: (8)
+      - button "Residential(4)" [ref=e40]:
+        - text: Residential
+        - generic [ref=e41]: (4)
+    - generic [ref=e43]:
+      - generic [ref=e44]:
+        - generic [ref=e45]:
+          - img "Commercial HVAC rooftop units" [ref=e46]
+          - generic [ref=e48]:
+            - generic [ref=e49]: Commercial
+            - paragraph [ref=e50]: Commercial HVAC rooftop units
+        - generic [ref=e51]:
+          - img "Industrial ventilation system" [ref=e52]
+          - generic [ref=e54]:
+            - generic [ref=e55]: Industrial
+            - paragraph [ref=e56]: Industrial ventilation system
+        - generic [ref=e57]:
+          - img "Commercial building mechanical room" [ref=e58]
+          - generic [ref=e60]:
+            - generic [ref=e61]: Commercial
+            - paragraph [ref=e62]: Commercial building mechanical room
+        - generic [ref=e63]:
+          - img "Residential furnace installation" [ref=e64]
+          - generic [ref=e66]:
+            - generic [ref=e67]: Residential
+            - paragraph [ref=e68]: Residential furnace installation
+        - generic [ref=e69]:
+          - img "Industrial warehouse heating system" [ref=e70]
+          - generic [ref=e72]:
+            - generic [ref=e73]: Industrial
+            - paragraph [ref=e74]: Industrial warehouse heating system
+        - generic [ref=e75]:
+          - img "Commercial ductwork installation" [ref=e76]
+          - generic [ref=e78]:
+            - generic [ref=e79]: Commercial
+            - paragraph [ref=e80]: Commercial ductwork installation
+        - generic [ref=e81]:
+          - img "Construction site HVAC work" [ref=e82]
+          - generic [ref=e84]:
+            - generic [ref=e85]: Commercial
+            - paragraph [ref=e86]: Construction site HVAC work
+        - generic [ref=e87]:
+          - img "Industrial piping and mechanical" [ref=e88]
+          - generic [ref=e90]:
+            - generic [ref=e91]: Industrial
+            - paragraph [ref=e92]: Industrial piping and mechanical
+        - generic [ref=e93]:
+          - img "Residential HVAC unit" [ref=e94]
+          - generic [ref=e96]:
+            - generic [ref=e97]: Residential
+            - paragraph [ref=e98]: Residential HVAC unit
+        - generic [ref=e99]:
+          - img "Commercial building exterior with HVAC" [ref=e100]
+          - generic [ref=e102]:
+            - generic [ref=e103]: Commercial
+            - paragraph [ref=e104]: Commercial building exterior with HVAC
+        - generic [ref=e105]:
+          - img "Modern commercial office HVAC system" [ref=e106]
+          - generic [ref=e108]:
+            - generic [ref=e109]: Commercial
+            - paragraph [ref=e110]: Modern commercial office HVAC system
+        - generic [ref=e111]:
+          - img "Industrial facility mechanical systems" [ref=e112]
+          - generic [ref=e114]:
+            - generic [ref=e115]: Industrial
+            - paragraph [ref=e116]: Industrial facility mechanical systems
+      - generic [ref=e117]:
+        - paragraph [ref=e118]: Showing representative projects from our portfolio.
+        - paragraph [ref=e119]: Contact us to discuss your specific project requirements.
+        - link "Discuss Your Project" [ref=e120] [cursor=pointer]:
+          - /url: /contact
+  - contentinfo [ref=e121]:
+    - generic [ref=e123]:
+      - generic [ref=e124]:
+        - img "Cascade HVAC Ltd" [ref=e125]
+        - paragraph [ref=e126]: Alberta's trusted HVAC experts since 2006. Commercial, industrial & residential heating, ventilation, and air conditioning.
+        - generic [ref=e127]:
+          - generic [ref=e128]: SMCAA
+          - generic [ref=e129]: ACSA
+          - generic [ref=e130]: COR
+      - generic [ref=e131]:
+        - heading "Quick Links" [level=3] [ref=e132]
+        - list [ref=e133]:
+          - listitem [ref=e134]:
+            - link "Home" [ref=e135] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e136]:
+            - link "Services" [ref=e137] [cursor=pointer]:
+              - /url: /services
+          - listitem [ref=e138]:
+            - link "Gallery" [ref=e139] [cursor=pointer]:
+              - /url: /gallery
+          - listitem [ref=e140]:
+            - link "About" [ref=e141] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=e142]:
+            - link "Contact" [ref=e143] [cursor=pointer]:
+              - /url: /contact
+      - generic [ref=e144]:
+        - heading "Contact" [level=3] [ref=e145]
+        - list [ref=e146]:
+          - listitem [ref=e147]:
+            - img [ref=e148]
+            - generic [ref=e151]:
+              - text: 1022, 93 Gateway Drive NE
+              - text: Airdrie, AB T4B 0J6
+          - listitem [ref=e152]:
+            - img [ref=e153]
+            - generic [ref=e155]:
+              - 'link "Local: 403.264.4622" [ref=e156] [cursor=pointer]':
+                - /url: tel:4032644622
+              - 'link "Toll Free: 877.413.3665" [ref=e157] [cursor=pointer]':
+                - /url: tel:8774133665
+          - listitem [ref=e158]:
+            - img [ref=e159]
+            - link "info@cascadehvac.ca" [ref=e162] [cursor=pointer]:
+              - /url: mailto:info@cascadehvac.ca
+      - generic [ref=e163]:
+        - heading "Business Hours" [level=3] [ref=e164]
+        - list [ref=e165]:
+          - listitem [ref=e166]:
+            - img [ref=e167]
+            - generic [ref=e170]:
+              - paragraph [ref=e171]: Monday - Friday
+              - paragraph [ref=e172]: 7:00 AM - 5:00 PM
+          - listitem [ref=e173]:
+            - img [ref=e174]
+            - generic [ref=e177]:
+              - paragraph [ref=e178]: Saturday - Sunday
+              - paragraph [ref=e179]: Closed
+        - link "Call Now" [ref=e181] [cursor=pointer]:
+          - /url: tel:4032644622
+          - img [ref=e182]
+          - text: Call Now
+    - generic [ref=e185]:
+      - paragraph [ref=e186]: © 2026 Cascade HVAC Ltd. All rights reserved.
+      - paragraph [ref=e187]: SMCAA Member · ACSA Certified · COR Certified
+  - button "1" [ref=e188] [cursor=pointer]:
+    - generic [ref=e189]: "1"
+    - img [ref=e190]

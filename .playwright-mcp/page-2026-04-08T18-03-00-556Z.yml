@@ -1,0 +1,184 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "Cascade HVAC Ltd" [ref=e4] [cursor=pointer]:
+        - /url: /
+        - img "Cascade HVAC Ltd" [ref=e5]
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - link "Services" [ref=e8] [cursor=pointer]:
+            - /url: /services
+          - link "Gallery" [ref=e9] [cursor=pointer]:
+            - /url: /gallery
+          - link "About" [ref=e10] [cursor=pointer]:
+            - /url: /about
+          - link "Contact" [ref=e11] [cursor=pointer]:
+            - /url: /contact
+        - link "403.264.4622" [ref=e12] [cursor=pointer]:
+          - /url: tel:4032644622
+          - img [ref=e13]
+          - text: 403.264.4622
+  - main [ref=e15]:
+    - generic [ref=e17]:
+      - heading "Our Services" [level=1] [ref=e18]
+      - paragraph [ref=e19]: From design-build to maintenance, Cascade HVAC delivers complete heating, ventilation, and air conditioning solutions for commercial, industrial, and residential projects across Alberta.
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - img [ref=e26]
+          - heading "HVAC Installation & Replacement" [level=2] [ref=e28]
+        - paragraph [ref=e29]: Complete heating and cooling system installation for commercial, industrial, and residential properties.
+        - list [ref=e30]:
+          - listitem [ref=e31]: Roof Top Units (RTU)
+          - listitem [ref=e33]: Make Up Air (MUA) — direct & indirect fire
+          - listitem [ref=e35]: Exhaust Fans — direct & belt drive
+          - listitem [ref=e37]: High-efficiency furnaces
+          - listitem [ref=e39]: Garage & warehouse unit heaters
+          - listitem [ref=e41]: Infrared tube heating
+          - listitem [ref=e43]: HRV/ERV ventilation
+          - listitem [ref=e45]: Fan coils
+          - listitem [ref=e47]: Hot water tanks
+      - generic [ref=e49]:
+        - generic [ref=e50]:
+          - img [ref=e52]
+          - heading "Ductwork & Fabrication" [level=2] [ref=e56]
+        - paragraph [ref=e57]: Custom ductwork and sheet metal fabrication in our in-house shop.
+        - list [ref=e58]:
+          - listitem [ref=e59]: Galvanized ducting
+          - listitem [ref=e61]: Aluminum ducting
+          - listitem [ref=e63]: Stainless steel ducting
+          - listitem [ref=e65]: Satin coat ducting
+          - listitem [ref=e67]: Electric & gas duct heaters
+          - listitem [ref=e69]: Black iron grease ducting
+          - listitem [ref=e71]: Sheet metal fabrication
+      - generic [ref=e73]:
+        - generic [ref=e74]:
+          - img [ref=e76]
+          - heading "Climate Control" [level=2] [ref=e78]
+        - paragraph [ref=e79]: Precision climate management systems for optimal comfort and efficiency.
+        - list [ref=e80]:
+          - listitem [ref=e81]: Humidification systems
+          - listitem [ref=e83]: Heat exchangers
+          - listitem [ref=e85]: Thermostats
+          - listitem [ref=e87]: Air balancing
+          - listitem [ref=e89]: Control systems
+          - listitem [ref=e91]: Hydronic reheat coils
+      - generic [ref=e93]:
+        - generic [ref=e94]:
+          - img [ref=e96]
+          - heading "Air Quality & Ventilation" [level=2] [ref=e100]
+        - paragraph [ref=e101]: Comprehensive air quality solutions for healthy, safe indoor environments.
+        - list [ref=e102]:
+          - listitem [ref=e103]: Air filtration
+          - listitem [ref=e105]: Gas detection
+          - listitem [ref=e107]: Air curtains
+          - listitem [ref=e109]: Ceiling fans
+          - listitem [ref=e111]: Dust collection
+          - listitem [ref=e113]: Lab fume hoods
+          - listitem [ref=e115]: Medical exhaust
+      - generic [ref=e117]:
+        - generic [ref=e118]:
+          - img [ref=e120]
+          - heading "Building Infrastructure" [level=2] [ref=e124]
+        - paragraph [ref=e125]: Essential building systems and mechanical infrastructure.
+        - list [ref=e126]:
+          - listitem [ref=e127]: Boiler systems
+          - listitem [ref=e129]: Insulation & cladding
+          - listitem [ref=e131]: Garbage & laundry chutes
+          - listitem [ref=e133]: Motorized dampers
+          - listitem [ref=e135]: Louvers
+          - listitem [ref=e137]: Access doors
+          - listitem [ref=e139]: Vehicle exhaust hose reels
+      - generic [ref=e141]:
+        - generic [ref=e142]:
+          - img [ref=e144]
+          - heading "Professional Services" [level=2] [ref=e147]
+        - paragraph [ref=e148]: End-to-end project delivery from design through completion.
+        - list [ref=e149]:
+          - listitem [ref=e150]: Design-build
+          - listitem [ref=e152]: Engineering
+          - listitem [ref=e154]: Installation
+          - listitem [ref=e156]: Fabrication
+          - listitem [ref=e158]: Project management
+          - listitem [ref=e160]: Maintenance
+          - listitem [ref=e162]: Permits
+          - listitem [ref=e164]: Safe work procedures
+    - generic [ref=e167]:
+      - heading "Need a Quote?" [level=2] [ref=e168]
+      - paragraph [ref=e169]: A quote is a quote — there are never surprising extras. Contact us today for a free, no-obligation estimate on your HVAC project.
+      - generic [ref=e170]:
+        - link "403.264.4622" [ref=e171] [cursor=pointer]:
+          - /url: tel:4032644622
+          - img [ref=e172]
+          - text: 403.264.4622
+        - link "Request a Free Quote" [ref=e174] [cursor=pointer]:
+          - /url: /contact
+  - contentinfo [ref=e175]:
+    - generic [ref=e177]:
+      - generic [ref=e178]:
+        - img "Cascade HVAC Ltd" [ref=e179]
+        - paragraph [ref=e180]: Alberta's trusted HVAC experts since 2006. Commercial, industrial & residential heating, ventilation, and air conditioning.
+        - generic [ref=e181]:
+          - generic [ref=e182]: SMCAA
+          - generic [ref=e183]: ACSA
+          - generic [ref=e184]: COR
+      - generic [ref=e185]:
+        - heading "Quick Links" [level=3] [ref=e186]
+        - list [ref=e187]:
+          - listitem [ref=e188]:
+            - link "Home" [ref=e189] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e190]:
+            - link "Services" [ref=e191] [cursor=pointer]:
+              - /url: /services
+          - listitem [ref=e192]:
+            - link "Gallery" [ref=e193] [cursor=pointer]:
+              - /url: /gallery
+          - listitem [ref=e194]:
+            - link "About" [ref=e195] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=e196]:
+            - link "Contact" [ref=e197] [cursor=pointer]:
+              - /url: /contact
+      - generic [ref=e198]:
+        - heading "Contact" [level=3] [ref=e199]
+        - list [ref=e200]:
+          - listitem [ref=e201]:
+            - img [ref=e202]
+            - generic [ref=e205]:
+              - text: 1022, 93 Gateway Drive NE
+              - text: Airdrie, AB T4B 0J6
+          - listitem [ref=e206]:
+            - img [ref=e207]
+            - generic [ref=e209]:
+              - 'link "Local: 403.264.4622" [ref=e210] [cursor=pointer]':
+                - /url: tel:4032644622
+              - 'link "Toll Free: 877.413.3665" [ref=e211] [cursor=pointer]':
+                - /url: tel:8774133665
+          - listitem [ref=e212]:
+            - img [ref=e213]
+            - link "info@cascadehvac.ca" [ref=e216] [cursor=pointer]:
+              - /url: mailto:info@cascadehvac.ca
+      - generic [ref=e217]:
+        - heading "Business Hours" [level=3] [ref=e218]
+        - list [ref=e219]:
+          - listitem [ref=e220]:
+            - img [ref=e221]
+            - generic [ref=e224]:
+              - paragraph [ref=e225]: Monday - Friday
+              - paragraph [ref=e226]: 7:00 AM - 5:00 PM
+          - listitem [ref=e227]:
+            - img [ref=e228]
+            - generic [ref=e231]:
+              - paragraph [ref=e232]: Saturday - Sunday
+              - paragraph [ref=e233]: Closed
+        - link "Call Now" [ref=e235] [cursor=pointer]:
+          - /url: tel:4032644622
+          - img [ref=e236]
+          - text: Call Now
+    - generic [ref=e239]:
+      - paragraph [ref=e240]: © 2026 Cascade HVAC Ltd. All rights reserved.
+      - paragraph [ref=e241]: SMCAA Member · ACSA Certified · COR Certified
+  - button "1" [ref=e242] [cursor=pointer]:
+    - generic [ref=e243]: "1"
+    - img [ref=e244]

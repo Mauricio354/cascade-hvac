@@ -1,0 +1,169 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "Cascade HVAC Ltd" [ref=e4] [cursor=pointer]:
+        - /url: /
+        - img "Cascade HVAC Ltd" [ref=e5]
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - link "Services" [ref=e8] [cursor=pointer]:
+            - /url: /services
+          - link "Gallery" [ref=e9] [cursor=pointer]:
+            - /url: /gallery
+          - link "About" [ref=e10] [cursor=pointer]:
+            - /url: /about
+          - link "Contact" [ref=e11] [cursor=pointer]:
+            - /url: /contact
+        - link "403.264.4622" [ref=e12] [cursor=pointer]:
+          - /url: tel:4032644622
+          - img [ref=e13]
+          - text: 403.264.4622
+  - main [ref=e15]:
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - paragraph [ref=e20]: Trusted HVAC Experts Since 2006
+        - heading "Alberta's Trusted HVAC Experts" [level=1] [ref=e21]:
+          - text: Alberta's Trusted
+          - text: HVAC Experts
+        - paragraph [ref=e22]: Commercial, industrial & residential heating, ventilation, and air conditioning. A quote is a quote — there are never surprising extras.
+        - generic [ref=e23]:
+          - link "Get a Free Quote" [ref=e24] [cursor=pointer]:
+            - /url: /contact
+            - text: Get a Free Quote
+            - img [ref=e25]
+          - link "Our Services" [ref=e27] [cursor=pointer]:
+            - /url: /services
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - img [ref=e30]
+            - text: COR Certified
+          - generic [ref=e32]:
+            - img [ref=e33]
+            - text: Mon-Fri, 7am-5pm
+          - generic [ref=e36]:
+            - img [ref=e37]
+            - text: 403.264.4622
+      - img "Commercial HVAC ventilation pipes" [ref=e40]
+    - generic [ref=e42]:
+      - generic [ref=e43]:
+        - heading "What We Do" [level=2] [ref=e44]
+        - paragraph [ref=e45]: From design-build to ongoing maintenance, we deliver complete HVAC solutions across Alberta.
+      - generic [ref=e46]:
+        - generic [ref=e47]:
+          - heading "Installation" [level=3] [ref=e48]
+          - paragraph [ref=e49]: RTUs, furnaces, exhaust fans, HRV/ERV systems, hot water tanks, and more for commercial, industrial, and residential projects.
+        - generic [ref=e50]:
+          - heading "Fabrication" [level=3] [ref=e51]
+          - paragraph [ref=e52]: In-house sheet metal fabrication with galvanized, aluminum, stainless steel, and satin coat ducting.
+        - generic [ref=e53]:
+          - heading "Service & Maintenance" [level=3] [ref=e54]
+          - paragraph [ref=e55]: Ongoing maintenance, repairs, air balancing, and climate control to keep your systems running efficiently.
+      - link "View all services" [ref=e57] [cursor=pointer]:
+        - /url: /services
+        - text: View all services
+        - img [ref=e58]
+    - generic [ref=e61]:
+      - heading "Ready to Start Your Project?" [level=2] [ref=e62]
+      - paragraph [ref=e63]: A quote is a quote — there are never surprising extras. Contact us today for a free, no-obligation estimate.
+      - generic [ref=e64]:
+        - link "403.264.4622" [ref=e65] [cursor=pointer]:
+          - /url: tel:4032644622
+          - img [ref=e66]
+          - text: 403.264.4622
+        - link "Request a Free Quote" [ref=e68] [cursor=pointer]:
+          - /url: /contact
+  - contentinfo [ref=e69]:
+    - generic [ref=e71]:
+      - generic [ref=e72]:
+        - img "Cascade HVAC Ltd" [ref=e73]
+        - paragraph [ref=e74]: Alberta's trusted HVAC experts since 2006. Commercial, industrial & residential heating, ventilation, and air conditioning.
+        - generic [ref=e75]:
+          - generic [ref=e76]: SMCAA
+          - generic [ref=e77]: ACSA
+          - generic [ref=e78]: COR
+      - generic [ref=e79]:
+        - heading "Quick Links" [level=3] [ref=e80]
+        - list [ref=e81]:
+          - listitem [ref=e82]:
+            - link "Home" [ref=e83] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e84]:
+            - link "Services" [ref=e85] [cursor=pointer]:
+              - /url: /services
+          - listitem [ref=e86]:
+            - link "Gallery" [ref=e87] [cursor=pointer]:
+              - /url: /gallery
+          - listitem [ref=e88]:
+            - link "About" [ref=e89] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=e90]:
+            - link "Contact" [ref=e91] [cursor=pointer]:
+              - /url: /contact
+      - generic [ref=e92]:
+        - heading "Contact" [level=3] [ref=e93]
+        - list [ref=e94]:
+          - listitem [ref=e95]:
+            - img [ref=e96]
+            - generic [ref=e99]:
+              - text: 1022, 93 Gateway Drive NE
+              - text: Airdrie, AB T4B 0J6
+          - listitem [ref=e100]:
+            - img [ref=e101]
+            - generic [ref=e103]:
+              - 'link "Local: 403.264.4622" [ref=e104] [cursor=pointer]':
+                - /url: tel:4032644622
+              - 'link "Toll Free: 877.413.3665" [ref=e105] [cursor=pointer]':
+                - /url: tel:8774133665
+          - listitem [ref=e106]:
+            - img [ref=e107]
+            - link "info@cascadehvac.ca" [ref=e110] [cursor=pointer]:
+              - /url: mailto:info@cascadehvac.ca
+      - generic [ref=e111]:
+        - heading "Business Hours" [level=3] [ref=e112]
+        - list [ref=e113]:
+          - listitem [ref=e114]:
+            - img [ref=e115]
+            - generic [ref=e118]:
+              - paragraph [ref=e119]: Monday - Friday
+              - paragraph [ref=e120]: 7:00 AM - 5:00 PM
+          - listitem [ref=e121]:
+            - img [ref=e122]
+            - generic [ref=e125]:
+              - paragraph [ref=e126]: Saturday - Sunday
+              - paragraph [ref=e127]: Closed
+        - link "Call Now" [ref=e129] [cursor=pointer]:
+          - /url: tel:4032644622
+          - img [ref=e130]
+          - text: Call Now
+    - generic [ref=e133]:
+      - paragraph [ref=e134]: © 2026 Cascade HVAC Ltd. All rights reserved.
+      - paragraph [ref=e135]: SMCAA Member · ACSA Certified · COR Certified
+  - alert [ref=e143]
+  - generic [ref=e144]:
+    - generic [ref=e145]:
+      - generic [ref=e146]:
+        - img "Cascade HVAC" [ref=e148]
+        - generic [ref=e149]:
+          - generic [ref=e150]: Cascade HVAC Ltd
+          - generic [ref=e151]: Online — Ask us anything
+      - generic [ref=e153]:
+        - generic [ref=e154]:
+          - button "EN" [ref=e155] [cursor=pointer]
+          - button "FR" [ref=e156] [cursor=pointer]
+        - button "⋮" [ref=e158] [cursor=pointer]
+        - button "✕" [ref=e159] [cursor=pointer]
+    - generic [ref=e160] [cursor=pointer]:
+      - img [ref=e161]
+      - generic [ref=e163]: Book a Consultation
+    - generic [ref=e165]:
+      - generic [ref=e166]: Welcome to Cascade HVAC! I’m your AI assistant. Whether you need heating, cooling, ventilation, ductwork, or maintenance — I’m here to help. How can I assist you today?
+      - generic [ref=e167]: 12:29 PM
+    - generic [ref=e169]:
+      - button "What HVAC services do you offer?" [ref=e170] [cursor=pointer]
+      - button "Do you serve the Calgary area?" [ref=e171] [cursor=pointer]
+      - button "How do I request a free quote?" [ref=e172] [cursor=pointer]
+    - generic [ref=e173]:
+      - textbox "Ask about our HVAC services..." [active] [ref=e174]
+      - button [disabled] [ref=e175]:
+        - img [ref=e176]
+    - generic [ref=e178]: Powered by AI · For quotes, call 403.264.4622

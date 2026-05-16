@@ -1,0 +1,37 @@
+- main [ref=e2]:
+  - generic [ref=e9]:
+    - navigation [ref=e10]:
+      - img "Cascade HVAC Ltd" [ref=e12]
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - link "Services" [ref=e15] [cursor=pointer]:
+            - /url: /services
+            - generic [ref=e16]: Services
+          - link "Gallery" [ref=e17] [cursor=pointer]:
+            - /url: /gallery
+            - generic [ref=e18]: Gallery
+          - link "About" [ref=e19] [cursor=pointer]:
+            - /url: /about
+            - generic [ref=e20]: About
+          - link "Contact" [ref=e21] [cursor=pointer]:
+            - /url: /contact
+            - generic [ref=e22]: Contact
+        - link "403.264.4622" [ref=e24] [cursor=pointer]:
+          - /url: tel:4032644622
+          - img [ref=e25]
+          - text: 403.264.4622
+    - generic [ref=e27]:
+      - generic [ref=e28]: Trusted HVAC Experts Since 2006
+      - img [ref=e29]
+    - generic [ref=e31]:
+      - heading "Alberta's Trusted HVAC Experts" [level=1] [ref=e32]
+      - paragraph [ref=e33]: Commercial, industrial & residential heating, ventilation, and air conditioning. A quote is a quote — there are never surprising extras.
+      - generic [ref=e34]:
+        - link "Get a Free Quote" [ref=e35] [cursor=pointer]:
+          - /url: "#quote"
+        - link "Our Services" [ref=e36] [cursor=pointer]:
+          - /url: "#services"
+      - img "Commercial HVAC rooftop units on a modern building" [ref=e39]
+  - button "1" [ref=e40] [cursor=pointer]:
+    - generic [ref=e41]: "1"
+    - img [ref=e42]
